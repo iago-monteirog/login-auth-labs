@@ -1,1 +1,0 @@
-create table users (id  bigserial not null, created_at timestamp, email varchar(255), name varchar(255), password varchar(255), updated_at timestamp, username varchar(255), primary key (id))
